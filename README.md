@@ -1,5 +1,7 @@
 # BinderTest
 
+## Terminal approach
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akabla/BinderTest/HEAD)
 
 Launch a terminal in Binder, and type:
@@ -21,3 +23,7 @@ Free parameters: η and k
                   η                  k
                >
 ```               
+
+## Notebook install & run
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akabla/BinderTest/HEAD?filepath=InstallJulia.ipynb)
