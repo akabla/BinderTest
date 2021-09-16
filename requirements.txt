@@ -1,2 +1,2 @@
-pyjulia
+julia
 matplotlib
