@@ -9,7 +9,7 @@ Launch a terminal in Binder, and type:
 python julia_install.py
 python -i RHEOS.py
 ```
-Rheos should not be available in python:
+Rheos should now be available in python:
 ```
 >>> RHEOS.Maxwell
 <PyCall.jlwrap 
